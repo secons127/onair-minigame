@@ -2,7 +2,7 @@
 
 ## 🎯 프로젝트 개요 (Overview)
 
-ON:AIR NEXT는 **LLM + Google Antigravity(바이브코딩 기반 AI IDE)**를 활용하여
+ON:AIR NEXT는*LLM + Google Antigravity(바이브코딩 기반 AI IDE)를 활용하여
 사용자의 **전화 공포(Call-Phobia)** 및 **대화 불안**을 완화하기 위한
 **상황 시뮬레이션 + 실시간 피드백 + 멀티모달 분석 기반** AI 커뮤니케이션 트레이닝 서비스입니다.
 
